@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shishirlearnz
-- 👀 I’m interested in Coding and Music
-- 🌱 I’m currently learning Network security and Modern C++
+- 👀 I’m interested in Coding, Music, and Fitness.
+- 🌱 I’m currently learning Network security and Modern C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
